@@ -20,9 +20,15 @@ public class Principal {
         
         PessoaFisica objPessoaFisica = new PessoaFisica();
         
-        objPessoaFisica.exibirNomeCompleto("", "");
+        objPessoaFisica.setIdade("20");
+        objPessoaFisica.exibirNomeCompleto("Afonso", "Testêncio");
         // Essa chamada dispara set/get da classe Pessoa -- dispara set/get da classe PessoaFisica.
         // Essa chamada resolverá o que desejamos, exibirá o nome completo concatenado da forma correta.
+        
+        
+        // Classes ABSTRATAS.
+        
+        //Pessoa objPessoa = new Pessoa();    // Não fará sentido instânciar "Pessoa" pois ela serve aqui apenas para "dar luz" aos seus herdeiros.
         
     }
     

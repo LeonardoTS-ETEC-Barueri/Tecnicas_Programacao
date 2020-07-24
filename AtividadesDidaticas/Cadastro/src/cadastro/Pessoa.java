@@ -7,7 +7,7 @@ public class Pessoa {
     private String endereco;
     
     // Método Construtor
-    
+
     // Métodos Especiais (Getter/Setter)
     public String getNome(){
         if (this.nome == null){
