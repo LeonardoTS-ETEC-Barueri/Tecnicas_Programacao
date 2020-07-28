@@ -28,7 +28,7 @@ public class Principal {
         
         // Classes ABSTRATAS.
         
-        //Pessoa objPessoa = new Pessoa();    // Não fará sentido instânciar "Pessoa" pois ela serve aqui apenas para "dar luz" aos seus herdeiros.
+        // Pessoa objPessoa = new Pessoa();    // Não fará sentido instânciar "Pessoa" pois ela serve aqui apenas para "dar luz" aos seus herdeiros.
         
     }
     
